@@ -1,0 +1,219 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lemon');
+
+#header-section #name h1{
+    font-family: 'Lemon', sans-serif;
+}
+#body{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    background-size: cover;
+    background-image: url("data:image/jpeg;base64,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");
+}
+.containers{
+    background-color: white;
+    width: 85%;
+    height: 98vh;
+    box-shadow: 0px 0px 9px 0px rgb(146, 142, 142);
+    margin: 1vh auto;
+    border-radius: 10px;
+}
+#header-section{
+    width: 95%;
+    margin: 0px auto;
+    height: 10vh;
+    display: flex;
+}
+#header-section img{
+    width: 60px;
+}
+#header-section #name h1{
+    color: rgb(34, 0, 205);
+    margin: 0px;
+    margin-top:5px ;
+    font-size: 30px;
+}
+.content-section{
+    width: 100%;
+    height: 85vh;
+    display: flex;
+    
+    border-radius: 10px;
+
+}
+#illustration{
+    padding-top: 100px;
+    width: 30%;
+}
+#illustration img{
+    width: 100%;
+}
+#chatbot-body{
+    width: 70%;
+    height: 98%;
+    position: relative;
+}
+
+#message-section{
+    width: 100%;
+    height: 92%;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    scrollbar-width:thin;
+}
+
+#user-message{
+    background: linear-gradient(to right, rgb(142, 151, 255), #6368fc,rgb(101, 101, 239));
+    color: white;
+    text-align: left;
+    align-self: flex-start;
+    width: 20vw;
+}
+#AI-message{
+    background-color: #d5e2ff;
+    box-shadow: -15px 12px 17px 0px rgb(181 194 242);
+    color: rgb(0, 0, 0);
+    text-align: left;
+    align-self: flex-end;
+    width: 40vw;
+}
+#user-message,#AI-message{
+    margin: 20px 10px;
+    border-radius: 15px;
+    padding: 10px;
+    padding-left: 10px;
+}
+#input-section{
+    width: 100%;
+    height: 10%;
+    margin: 0px auto;
+    margin-top: 8px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    position: absolute;
+    bottom: -20px;
+}
+#user-input{
+    width: 100%;
+}
+#user,#send{
+    margin-top:4px;
+}
+#user{
+    width: 100%;
+    height: 45px;
+    border-radius: 50px;
+    padding-left: 20px;
+    border-radius: 20px;
+    font-size: 18px;
+    background-color: transparent;
+    background-color: #c7d8ff;
+    margin-top: 5px;
+    border: none;
+}
+#user:focus {
+    border-color: #0c00ba00;
+    outline: none;
+    border: 2px solid #103bd3;
+    box-shadow: 0 0 5px 2px #5e78d7;
+} 
+#send{
+    width: 10%;
+}
+#send button{
+    width: 50px;
+    height: 45px;
+    border: none;
+    background-color: transparent;
+    background-color: #c7d8ff;
+    border-radius: 50%;
+  
+}
+#send button:hover{
+    background-color: #cbd6ff;
+    border: 2px solid #103bd3;
+    box-shadow: 0 0 5px 2px #5e78d7;
+}
+#send button:hover{
+    cursor: pointer;
+}
+#send button svg{
+    width: 100%;
+    height: 80%;
+    padding: 10%;
+}
+@media (max-width:1024px) {
+    #body{
+        background-color: white;
+    }
+    .containers{
+        width: 100%;
+        box-shadow: none;
+        height: 100vh;
+        margin: 0vh auto;
+        border-radius: 0px;
+    }
+    #header-section{
+        align-self: self-start;
+        width: 90%;
+        margin: 0px auto;
+    }
+    #header-section img{
+        width: 70px;
+    }
+    #header-section #name h1{
+        margin: 0px;
+        margin-top:15px ;
+        font-size: 30px;
+    }
+    #illustration{
+        display: none;
+    }
+    #chatbot-body{
+        width: 100%;
+        position: relative;
+    }
+    #message-section{
+        height: 90%;
+    }
+    #user-message{
+        width: 40vw;
+    }
+    #AI-message{
+        width: 90vw;
+    }
+    #user-message,#AI-message{
+        margin: 20px 5px;
+        padding: 10px;
+        font-size: 27px;
+    }
+    #input-section{
+        position: absolute;
+        bottom: -10px;
+        width: 95%;
+        height: 8%;
+        margin: 0px auto;
+    }
+    #user{
+        width: 95%;
+        height: 60px;
+        font-size: 25px;
+    }
+    #send button{
+        width: 150%;
+        height: 60px;
+    }
+    #send,#user{
+        margin-top: 4px;
+    }
+    #message-section{
+        scrollbar-width: none;
+    }
+    .content-section{
+        box-shadow: none;
+    }
+}
